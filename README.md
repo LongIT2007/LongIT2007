@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">I'm a software engineer from Viet Nam. Currently focusing on **.NET, Next.js, and modern frontend frameworks** like React 🚀. Passionate about building scalable web applications and learning new technologies every day.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longit2007" alt="longit2007" /></a> </p>
-
 - 🔭 I’m currently working on [engking](https://engking.org/)
 
 - 🌱 I’m currently learning ****Cloud Computing (AWS, Docker, Kubernetes)** and **DevOps practices**.**
