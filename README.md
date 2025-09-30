@@ -2,8 +2,7 @@
 
 <!--
 **LongIT2007/LongIT2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Long&theme=algolia)
-
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LongIT2007&theme=algolia
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
