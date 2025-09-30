@@ -9,7 +9,7 @@ Currently focusing on \*\*.NET, Next.js, and modern frontend frameworks\*\* like
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [hoanglong200703@gmail.com](mailto:hoanglong200703@gmail.com)
 * 🌱 I’m currently learning ****Cloud Computing (AWS, Docker, Kubernetes)** and **DevOps practices**.**  
-* 🚀  I'm currently working on [engking](http://ngking.org/)
+* 🚀  I'm currently working on [engking](http://engking.org/)
 * 👯 I’m looking to collaborate on [learnking](https://learnking.vn/)  
 * 🤝 I’m looking for help with [coffeeshop](https://coffeeshop-eight-beige.vercel.app/)  
 * 🧠  I'm currently learning Cloud Computing (AWS, Docker, Kubernetes) and DevOps practices.
