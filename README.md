@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Visitor](https://komarev.com/ghpvc/?username=LongIT2007)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LongIT2007)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LongIT2007&theme=algolia)
 
 Here are some ideas to get you started:
