@@ -26,5 +26,4 @@ ProfileMe.dev | Create an amazing GitHub profile in minutes
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LongIT2007)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LongIT2007&theme=aura_dark&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LongIT2007&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LongIT2007&theme=react&utcOffset=8)
