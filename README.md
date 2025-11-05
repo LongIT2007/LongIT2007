@@ -8,6 +8,7 @@ Currently focusing on \*\*.NET, Next.js, and modern frontend frameworks\*\* like
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [hoanglong200703@gmail.com](mailto:hoanglong200703@gmail.com)
+* Portfolio: [https://profolio-long.vercel.app/](https://profolio-long.vercel.app/) – *Showcasing my full-stack projects, 3D web experiences, and modern UI/UX designs built with Next.js, React Three Fiber, .NET & more.*
 * 🌱 I’m currently learning ****Cloud Computing (AWS, Docker, Kubernetes)** and **DevOps practices**.**  
 * 🚀  I'm currently working on [engking](http://engking.org/)
 * 👯 I’m looking to collaborate on [learnking](https://learnking.vn/)  
