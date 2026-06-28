@@ -8,11 +8,10 @@ Currently focusing on \*\*.NET, Next.js, and modern frontend frameworks\*\* like
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [hoanglong200703@gmail.com](mailto:hoanglong200703@gmail.com)
-* 🌐 Check out my [profolio](https://profolio-long.vercel.app/)
 * 🌱 I’m currently learning ****Cloud Computing (AWS, Docker, Kubernetes)** and **DevOps practices**.**  
 * 🚀  I'm currently working on [engking](http://engking.org/)
 * 👯 I’m looking to collaborate on [learnking](https://learnking.vn/)  
-* 🤝 I’m looking for help with [coffeeshop](https://coffeeshop-eight-beige.vercel.app/),   [social_media](https://calm-glacier-005316400.2.azurestaticapps.net/)  
+* 🤝 I’m looking for help with [social_media](https://calm-glacier-005316400.2.azurestaticapps.net/)  
 * 🧠  I'm currently learning Cloud Computing (AWS, Docker, Kubernetes) and DevOps practices.
 * 💡 My goal is to become a Full-stack Developer with strong backend (.NET) and frontend (React / Next.js).
 
