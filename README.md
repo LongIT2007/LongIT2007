@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hoang%20Long&fontSize=70&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=nord&height=200&section=header&text=Hoang%20Long&fontSize=70&fontColor=eceff4&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LongIT2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;.NET+%2B+React+%2F+Next.js" alt="Typing SVG" /></a>
+  <a href="https://github.com/LongIT2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;.NET+%2B+React+%2F+Next.js" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** from Vietnam 🇻🇳, dedicated to build
     </td>
     <td width="33%" align="center">
       <strong>🤝 Support Needed</strong><br/>
-      <a href="https://calm-glacier-005316400.2.azurestaticapps.net/">Social Media App</a>
+      <a href="https://facemetria.com/">facemetria.com</a>
     </td>
   </tr>
 </table>
@@ -44,53 +44,53 @@ I'm a passionate **Software Engineer** from Vietnam 🇻🇳, dedicated to build
 Here are the languages, frameworks, and tools I work with daily:
 
 #### 🖥️ Backend & Databases
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![](https://img.shields.io/badge/.NET-2E3440?style=flat-square&logo=.net&logoColor=D8DEE9)
+![](https://img.shields.io/badge/C%23-2E3440?style=flat-square&logo=csharp&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Node.js-2E3440?style=flat-square&logo=nodedotjs&logoColor=D8DEE9)
+![](https://img.shields.io/badge/NestJS-2E3440?style=flat-square&logo=nestjs&logoColor=D8DEE9)
+![](https://img.shields.io/badge/PHP-2E3440?style=flat-square&logo=php&logoColor=D8DEE9)
+![](https://img.shields.io/badge/MySQL-2E3440?style=flat-square&logo=mysql&logoColor=D8DEE9)
+![](https://img.shields.io/badge/SQL%20Server-2E3440?style=flat-square&logo=microsoftsqlserver&logoColor=D8DEE9)
 
 #### 🌐 Frontend Frameworks & Libraries
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/React-2E3440?style=flat-square&logo=react&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Next.js-2E3440?style=flat-square&logo=nextdotjs&logoColor=D8DEE9)
+![](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=D8DEE9)
+![](https://img.shields.io/badge/JavaScript-2E3440?style=flat-square&logo=javascript&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Tailwind_CSS-2E3440?style=flat-square&logo=tailwind-css&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Sass-2E3440?style=flat-square&logo=sass&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Material_UI-2E3440?style=flat-square&logo=mui&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Bootstrap-2E3440?style=flat-square&logo=bootstrap&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Redux-2E3440?style=flat-square&logo=redux&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Vite-2E3440?style=flat-square&logo=vite&logoColor=D8DEE9)
 
 #### ☁️ DevOps & Cloud
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/AWS-2E3440?style=flat-square&logo=amazonwebservices&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Docker-2E3440?style=flat-square&logo=docker&logoColor=D8DEE9)
+![](https://img.shields.io/badge/GCP-2E3440?style=flat-square&logo=googlecloud&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Ubuntu-2E3440?style=flat-square&logo=ubuntu&logoColor=D8DEE9)
 
 #### 🔧 Tools & Design
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Git-2E3440?style=flat-square&logo=git&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Postman-2E3440?style=flat-square&logo=postman&logoColor=D8DEE9)
+![](https://img.shields.io/badge/VS_Code-2E3440?style=flat-square&logo=visualstudiocode&logoColor=D8DEE9)
+![](https://img.shields.io/badge/Figma-2E3440?style=flat-square&logo=figma&logoColor=D8DEE9)
 
 ---
 
 ### 📊 GitHub Stats & Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LongIT2007&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LongIT2007&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongIT2007&layout=compact&theme=react&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LongIT2007&layout=compact&theme=nord&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LongIT2007&theme=react" alt="Profile Details" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LongIT2007&theme=nord" alt="Profile Details" height="150" />
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LongIT2007&theme=react&utcOffset=8" alt="Productive Time" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LongIT2007&theme=nord&utcOffset=8" alt="Productive Time" height="150" />
 </p>
 
 ---
@@ -98,10 +98,10 @@ Here are the languages, frameworks, and tools I work with daily:
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.github.com/LongIT2007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=D8DEE9" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/long.hoang.765371/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-2E3440?style=flat-square&logo=facebook&logoColor=D8DEE9" alt="Facebook" />
   </a>
 </p>
