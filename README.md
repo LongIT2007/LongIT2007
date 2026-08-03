@@ -79,16 +79,17 @@ Here are the languages, frameworks, and tools I work with daily:
 ---
 
 ### 📊 GitHub Stats & Performance
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=LongIT2007&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=LongIT2007&theme=react&border_radius=10" alt="GitHub Streak Stats" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongIT2007&theme=tokyo-night&radius=12&height=300" alt="Hải Long's GitHub Activity Graph" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongIT2007&theme=react&radius=10" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LongIT2007&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=LongIT2007&theme=tokyonight&border_radius=10" alt="Streak Stats" height="170" />
 </p>
 
 ---
