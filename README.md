@@ -86,9 +86,9 @@ Here are the languages, frameworks, and tools I work with daily:
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LongIT2007&theme=react" alt="Profile Details" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LongIT2007&layout=compact&theme=react" alt="Top Languages" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LongIT2007&theme=react&utcOffset=8" alt="Productive Time" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongIT2007&theme=react&height=165" alt="Activity Graph" height="165" />
 </p>
 
 ---
