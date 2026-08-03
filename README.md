@@ -87,9 +87,9 @@ Here are the languages, frameworks, and tools I work with daily:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LongIT2007&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LongIT2007&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" height="175" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=LongIT2007&theme=tokyonight&border_radius=10" alt="Streak Stats" height="170" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LongIT2007&theme=tokyonight&border_radius=10" alt="Streak Stats" height="175" />
 </p>
 
 ---
