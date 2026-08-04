@@ -81,15 +81,15 @@ Here are the languages, frameworks, and tools I work with daily:
 ### 📊 GitHub Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongIT2007&theme=tokyo-night&radius=12&height=300" alt="Hải Long's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongIT2007&theme=tokyo-night&radius=10&height=300" alt="Hải Long's GitHub Activity Graph" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LongIT2007&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LongIT2007&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github" alt="GitHub Stats" width="49%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LongIT2007&theme=tokyonight&border_radius=10" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LongIT2007&theme=tokyonight&border_radius=10" alt="Streak Stats" width="49%" />
 </p>
 
 ---
